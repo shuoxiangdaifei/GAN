@@ -4,9 +4,7 @@ Just know about how mathmatical analysis (in network structure and loss function
 For more theoretical details and pratical codes about GANs, please go to [GAN_Theories](https://github.com/YadiraF/GAN_Theories) and [GAN_Applications](https://github.com/YadiraF/GAN_Applications), thanks!     
 
 
-***************
-
-All have been tested with python2.7+ and tensorflow1.0+ in linux.  
+*************** 
 
 * Datas: save training data.  
 * Samples: save generated data, each folder contains several figs to **show the results**.  
